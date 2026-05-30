@@ -1,0 +1,190 @@
+[
+  {
+    "id" : "constitution",
+    "title": "Indian Constitution",
+    "resources": [
+      {
+        "type": "ARTICLE",
+        "title": "Preamble of the Constitution",
+        "url": "https://www.constitutionofindia.net/articles/preamble/"
+      },
+      {
+        "type": "ARTICLE",
+        "title": "Read the Constitution",
+        "url": "https://www.constitutionofindia.net/read/"
+      },
+      {
+        "type": "VIDEO",
+        "title": "The Constitution of India - An Introduction",
+        "url": "https://www.youtube.com/watch?v=sDstf8ockUo"
+      },
+      {
+        "type": "VIDEO",
+        "title": "We the People of India: The Story of India's Constitution",
+        "url": "https://www.youtube.com/watch?v=7u1yo61y5gw"
+      },
+      {
+        "type": "VIDEO",
+        "title": "Making of the Indian Constitution",
+        "url": "https://www.youtube.com/watch?v=HKB6bKmoWLE"
+      },
+      {
+        "type": "EBOOK",
+        "title": "Constitution of India (Official PDF)",
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/19150/1/constitution_of_india.pdf"
+      },
+      {
+        "type": "EBOOK",
+        "title": "Original Manuscript of the Constitution",
+        "url": "https://www.constitutionofindia.net/wp-content/uploads/2023/03/Original-Manuscript-of-the-Constitution-of-India_New1.pdf"
+      },
+      {
+        "type": "BOOK",
+        "title": "Our Constitution",
+        "author": "Subhash C. Kashyap",
+        "purchaseUrl": "https://www.amazon.in/s?k=Our+Constitution+Subhash+Kashyap"
+      },
+      {
+        "type": "BOOK",
+        "title": "We, The Children of India",
+        "author": "Leila Seth",
+        "purchaseUrl": "https://www.amazon.in/s?k=We+The+Children+of+India+Leila+Seth"
+      }
+    ]
+  },
+  {
+    "id" : "elections",
+    "title": "Elections",
+    "resources": [
+      {
+        "id": "elections_article_001",
+        "type": "ARTICLE",
+        "title": "About ECI",
+        "source": "Election Commission of India",
+        "url": "https://www.eci.gov.in/about-eci"
+      },
+      {
+        "id": "elections_article_002",
+        "type": "ARTICLE",
+        "title": "Election FAQs",
+        "source": "Election Commission of India",
+        "url": "https://www.eci.gov.in/faq"
+      },
+      {
+        "id": "elections_book_001",
+        "type": "BOOK",
+        "title": "How India Votes",
+        "author": "Mukulika Banerjee",
+        "purchaseUrl": "https://www.amazon.in/s?k=How+India+Votes+Mukulika+Banerjee"
+      }
+    ]
+  },
+  {
+    "id" : "parliament",
+    "title": "Parliament",
+    "resources": [
+      {
+        "id": "parliament_article_001",
+        "type": "ARTICLE",
+        "title": "About Parliament",
+        "source": "Sansad",
+        "url": "https://sansad.in"
+      },
+      {
+        "id": "parliament_article_002",
+        "type": "ARTICLE",
+        "title": "How a Bill Becomes a Law",
+        "source": "PRS India",
+        "url": "https://prsindia.org/articles-by-prs-team/how-a-bill-becomes-an-act-in-india"
+      },
+      {
+        "id": "parliament_book_001",
+        "type": "BOOK",
+        "title": "Our Parliament",
+        "author": "Subhash Kashyap",
+        "purchaseUrl": "https://www.amazon.in/s?k=Our+Parliament+Subhash+Kashyap"
+      }
+    ]
+  },
+   {
+    "id" : "judiciary",
+    "title": "Judiciary",
+    "resources": [
+      {
+        "id": "judiciary_article_001",
+        "type": "ARTICLE",
+        "title": "About the Supreme Court",
+        "source": "Supreme Court of India",
+        "url": "https://www.sci.gov.in"
+      },
+      {
+        "id": "judiciary_article_002",
+        "type": "ARTICLE",
+        "title": "Judicial Review Explained",
+        "source": "Constitution of India",
+        "url": "https://www.constitutionofindia.net"
+      },
+      {
+        "id": "judiciary_book_001",
+        "type": "BOOK",
+        "title": "Courts of India",
+        "author": "Nick Robinson",
+        "purchaseUrl": "https://www.amazon.in/s?k=Courts+of+India"
+      }
+    ]
+  },
+  {
+    "id" : "rightsDuties",
+    "title": "Rights & Duties",
+    "resources": [
+      {
+        "id": "rights_article_001",
+        "type": "ARTICLE",
+        "title": "Fundamental Rights",
+        "source": "India Code",
+        "url": "https://www.indiacode.nic.in"
+      },
+      {
+        "id": "rights_article_002",
+        "type": "ARTICLE",
+        "title": "Fundamental Duties",
+        "source": "Constitution of India",
+        "url": "https://www.constitutionofindia.net"
+      },
+      {
+        "id": "rights_book_001",
+        "type": "BOOK",
+        "title": "We, The Children of India",
+        "author": "Leila Seth",
+        "purchaseUrl": "https://www.amazon.in/s?k=We+The+Children+of+India+Leila+Seth"
+      }
+    ]
+  },
+  {
+    "id" : "governance",
+    "title": "Governance",
+    "resources": [
+      {
+        "id": "governance_article_001",
+        "type": "ARTICLE",
+        "title": "Panchayati Raj",
+        "source": "India.gov.in",
+        "url": "https://www.india.gov.in"
+      },
+      {
+        "id": "governance_article_002",
+        "type": "ARTICLE",
+        "title": "Federalism in India",
+        "source": "Constitution of India",
+        "url": "https://www.constitutionofindia.net"
+      },
+      {
+        "id": "governance_book_001",
+        "type": "BOOK",
+        "title": "Governance in India",
+        "author": "M. Laxmikanth",
+        "purchaseUrl": "https://www.amazon.in/s?k=Governance+in+India"
+      }
+    ]
+  }
+]
