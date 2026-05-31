@@ -50,14 +50,14 @@
         "type": "BOOK",
         "title": "Our Constitution",
         "author": "Subhash C. Kashyap",
-        "purchaseUrl": "https://www.amazon.in/s?k=Our+Constitution+Subhash+Kashyap"
+        "url": "https://www.amazon.in/s?k=Our+Constitution+Subhash+Kashyap"
       },
       {
         "id" : "constitution_book_002",
         "type": "BOOK",
         "title": "We, The Children of India",
         "author": "Leila Seth",
-        "purchaseUrl": "https://www.amazon.in/s?k=We+The+Children+of+India+Leila+Seth"
+        "url": "https://www.amazon.in/s?k=We+The+Children+of+India+Leila+Seth"
       }
     ]
   },
@@ -84,7 +84,7 @@
         "type": "BOOK",
         "title": "How India Votes",
         "author": "Mukulika Banerjee",
-        "purchaseUrl": "https://www.amazon.in/s?k=How+India+Votes+Mukulika+Banerjee"
+        "url": "https://www.amazon.in/s?k=How+India+Votes+Mukulika+Banerjee"
       }
     ]
   },
@@ -111,7 +111,7 @@
         "type": "BOOK",
         "title": "Our Parliament",
         "author": "Subhash Kashyap",
-        "purchaseUrl": "https://www.amazon.in/s?k=Our+Parliament+Subhash+Kashyap"
+        "url": "https://www.amazon.in/s?k=Our+Parliament+Subhash+Kashyap"
       }
     ]
   },
@@ -138,7 +138,7 @@
         "type": "BOOK",
         "title": "Courts of India",
         "author": "Nick Robinson",
-        "purchaseUrl": "https://www.amazon.in/s?k=Courts+of+India"
+        "url": "https://www.amazon.in/s?k=Courts+of+India"
       }
     ]
   },
@@ -165,7 +165,7 @@
         "type": "BOOK",
         "title": "We, The Children of India",
         "author": "Leila Seth",
-        "purchaseUrl": "https://www.amazon.in/s?k=We+The+Children+of+India+Leila+Seth"
+        "url": "https://www.amazon.in/s?k=We+The+Children+of+India+Leila+Seth"
       }
     ]
   },
@@ -192,7 +192,7 @@
         "type": "BOOK",
         "title": "Governance in India",
         "author": "M. Laxmikanth",
-        "purchaseUrl": "https://www.amazon.in/s?k=Governance+in+India"
+        "url": "https://www.amazon.in/s?k=Governance+in+India"
       }
     ]
   }
